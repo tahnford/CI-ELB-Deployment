@@ -1,0 +1,13 @@
+language: node_js
+node_js:
+  - "0.10"
+deploy:
+  provider: elasticbeanstalk
+  app: "chris-development"
+  env: "travis-deployment"
+  region: "eu-west-1"
+  access_key_id:
+    secure: "XuQBXFClvf67KS7FzA+fZ9k8vB6G4j/sorfklaQh3ldXYnB8IAKQX6lA/K7Ij+4ZDoXSE3JTgcnNY+NuCwdcr/+wHQspwZz2spoVEHTrriemuYQQsfykW3vDzsRvar//D2s1v6imjNaNKGasv1KRimhV/PzMSesfrHGqqxGNyEw="
+  secret_access_key:
+    secure: "fA3JZ8EONIzxcz4A/YxFZqqUcueIzipRfQRroZqivdb5F316Ci5E3yh9qBdpWiO03jRqnCxlb6Ielk/miyGBA3UQcyQ9nuOwKCfFdrE8Q5gabZfxw1oImHHik2UhWUWkmvdlDpF9uoD/ZdnVovP0EalDF8JAmSwO5zwDr94nN8Q="
+  skip_cleanup: true
