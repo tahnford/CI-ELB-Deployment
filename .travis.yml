@@ -11,3 +11,4 @@ deploy:
   secret_access_key:
     secure: "euVpiv0nVzwSh0sKKk0y8prECBpnb/wp+jbkHplGfqzCK3YjDd6KwzsNpvWB66AvONfm1SG2tyz0epe4mgBTcqR6j6EUM5cWJjuZQ5wWjctuXlmRkVI6CtnCMrS0tPgFDye3YRfBH0+wuh+BXeEbsbo4ETX+NdrXkyC9LumIAuc="
   skip_cleanup: true
+  bucket_name: "elasticbeanstalk-eu-west-1-981939279353"
