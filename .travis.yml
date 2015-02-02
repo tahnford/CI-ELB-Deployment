@@ -7,7 +7,7 @@ deploy:
   env: "travis-deployment"
   region: "eu-west-1"
   access_key_id:
-    secure: "XuQBXFClvf67KS7FzA+fZ9k8vB6G4j/sorfklaQh3ldXYnB8IAKQX6lA/K7Ij+4ZDoXSE3JTgcnNY+NuCwdcr/+wHQspwZz2spoVEHTrriemuYQQsfykW3vDzsRvar//D2s1v6imjNaNKGasv1KRimhV/PzMSesfrHGqqxGNyEw="
+    secure: "UVqTQIWqA79aRsCdCqPzwCHF6iQH3UvY8RcHY7ZYRwMq+5ohMIhCUbhkgQMxYqtfNel3JDrqG2ZXL40g8N9phyzaPQx586OOZtqo6W0lbFZ++omrTilAbFIvdlJmWHQjUYqLP0tmQaYPgkw/6CzVVww02rmwzH8V3sYIan3VWm8="
   secret_access_key:
-    secure: "fA3JZ8EONIzxcz4A/YxFZqqUcueIzipRfQRroZqivdb5F316Ci5E3yh9qBdpWiO03jRqnCxlb6Ielk/miyGBA3UQcyQ9nuOwKCfFdrE8Q5gabZfxw1oImHHik2UhWUWkmvdlDpF9uoD/ZdnVovP0EalDF8JAmSwO5zwDr94nN8Q="
+    secure: "euVpiv0nVzwSh0sKKk0y8prECBpnb/wp+jbkHplGfqzCK3YjDd6KwzsNpvWB66AvONfm1SG2tyz0epe4mgBTcqR6j6EUM5cWJjuZQ5wWjctuXlmRkVI6CtnCMrS0tPgFDye3YRfBH0+wuh+BXeEbsbo4ETX+NdrXkyC9LumIAuc="
   skip_cleanup: true
